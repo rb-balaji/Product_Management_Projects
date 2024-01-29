@@ -1,4 +1,4 @@
-# AI-Product-Manager-Nanodegree
+# AI-Product-Manager
 
 This challenge is the Phase II of Scholarship given by Bertelsmann via Udacity. In this phase, 1k scholars out of 15,000 participants worldwide were selected to learn further in one of fully-funded courses of Udacity's AI Product Manager Nanodegree.
 
