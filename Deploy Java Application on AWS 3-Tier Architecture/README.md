@@ -22,7 +22,7 @@ Goal of this project is to deploy scalable, highly available and secured Java ap
 ## Pre-Requisites
 
 1. Create AWS Free Tier account
-2. Create GitHub account and create repository to keep this Java [Source Code](https://github.com/rb-balaji/DevOps_Projects/tree/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/Java-Login-App)
+2. Create GitHub account and create repository to keep this Java [Source Code](https://github.com/rb-balaji/Product_Management_Projects/tree/2d7ff6e845583c52917ed9ffb396e5ffe5118f91/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/Java-Login-App)
 3. Migrate Java Source Code to your own GitHub repository
 4. Create account in Sonarcloud.
 5. Create account in Jfrog cloud.
