@@ -67,7 +67,3 @@ Image of Page 2 of the application
 Image of Page 3 of the application 
 
 ![Page_3](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Capstone%20Project%20-%20Personal%20Nutritionist%20with%20AI/Page_3.JPG)
-
-# Review from Udacity Mentor 
-
-![Review](https://github.com/Harini-Pavithra/AI-Product-Manager-Nanodegree/blob/main/Capstone%20Project%20-%20Personal%20Nutritionist%20with%20AI/Review.JPG)
