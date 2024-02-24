@@ -3,18 +3,18 @@
 ![AWS-Cloud](https://imgur.com/AXD50yl.png)
 
 ### TABLE OF CONTENTS
-1. [Goal](https://github.com/rb-balaji/DevOps_Projects/blob/12dddeeeb0a9258a80559abcda92c2290da316b3/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#goal)
-2. [Pre-Requisites](https://github.com/rb-balaji/DevOps_Projects/blob/12dddeeeb0a9258a80559abcda92c2290da316b3/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#pre-requisites)
-3. [Pre-Deployment](https://github.com/rb-balaji/DevOps_Projects/blob/12dddeeeb0a9258a80559abcda92c2290da316b3/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#pre-deployment)
-4. [VPC Deployment](https://github.com/rb-balaji/DevOps_Projects/blob/12dddeeeb0a9258a80559abcda92c2290da316b3/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#vpc-deployment)
-5. [Validation](https://github.com/rb-balaji/DevOps_Projects/blob/12dddeeeb0a9258a80559abcda92c2290da316b3/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#validation)
+1. [Goal](https://github.com/rb-balaji/Product_Management_Projects/tree/12571be0593713ede91a627423077f1bea9d4a79/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#goal)
+2. [Pre-Requisites](https://github.com/rb-balaji/Product_Management_Projects/tree/12571be0593713ede91a627423077f1bea9d4a79/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#pre-requisites)
+3. [Pre-Deployment](https://github.com/rb-balaji/Product_Management_Projects/tree/12571be0593713ede91a627423077f1bea9d4a79/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#pre-deployment)
+4. [VPC Deployment](https://github.com/rb-balaji/Product_Management_Projects/tree/12571be0593713ede91a627423077f1bea9d4a79/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#vpc-deployment)
+5. [Validation](https://github.com/rb-balaji/Product_Management_Projects/tree/12571be0593713ede91a627423077f1bea9d4a79/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/README.md#validation)
 
 ## Goal
 Deploy a Modular and Scalable Virtual Network Architecture with Amazon VPC.
 
 ## Pre-Requisites
 1. You must be having an [AWS account](https://aws.amazon.com/) to create infrastructure resources on AWS cloud.
-2. [Source Code](https://github.com/rb-balaji/DevOps_Projects/tree/12dddeeeb0a9258a80559abcda92c2290da316b3/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/html-web-app)
+2. [Source Code](https://github.com/rb-balaji/Product_Management_Projects/tree/12571be0593713ede91a627423077f1bea9d4a79/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20Cloud/html-web-app)
 
 ## Pre-Deployment
 Customize the application dependencies mentioned below on AWS EC2 instance and create the Golden AMI.
